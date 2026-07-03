@@ -1,0 +1,22 @@
+{
+  "SVD_RMSE": 0.8877,
+  "PMF_RMSE": 0.8417,
+  "PMF_vs_SVD_improvement_%": 5.18,
+  "Benchmark_RMSE": 1.0057,
+  "PMF_best_epoch": 224,
+  "Classical_PMF_RMSE": 0.863,
+  "NeuralMF_ensemble_RMSE": 0.8446,
+  "blend_weights": {
+    "names": [
+      "svd",
+      "pmf",
+      "neural"
+    ],
+    "weights": [
+      0.01720396074532975,
+      0.25820409720879234,
+      0.7703847154194344,
+      -0.1700606236194558
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Local env/secrets
+.env
+
+# Raw dataset (download separately, see data/README)
+data/
+
+# Generated matrices / model artifacts
+processed/*.csv
+reports/svd_predictions.npy
+reports/pmf_factors/*.npy
+reports/neural_ensemble/*/*.npy
+reports/neural_ensemble/*/*.pt
+

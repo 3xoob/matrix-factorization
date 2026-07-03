@@ -1,0 +1,11 @@
+SVD_MovieID,SVD_Title,SVD_Genres,SVD_PredictedRating,PMF_MovieID,PMF_Title,PMF_Genres,PMF_PredictedRating
+318,"Shawshank Redemption, The (1994)",Drama,4.693831920623779,920,Gone with the Wind (1939),Drama|Romance|War,4.628015518188477
+858,"Godfather, The (1972)",Action|Crime|Drama,4.67111349105835,356,Forrest Gump (1994),Comedy|Romance|War,4.5668253898620605
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.6589579582214355,593,"Silence of the Lambs, The (1991)",Drama|Thriller,4.5583953857421875
+904,Rear Window (1954),Mystery|Thriller,4.599267959594727,1387,Jaws (1975),Action|Horror,4.519951343536377
+1148,"Wrong Trousers, The (1993)",Animation|Comedy,4.586257457733154,1198,Raiders of the Lost Ark (1981),Action|Adventure,4.505825996398926
+1198,Raiders of the Lost Ark (1981),Action|Adventure,4.573480129241943,1250,"Bridge on the River Kwai, The (1957)",Drama|War,4.5031328201293945
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Film-Noir,4.56857967376709,858,"Godfather, The (1972)",Action|Crime|Drama,4.489709854125977
+1212,"Third Man, The (1949)",Mystery|Thriller,4.564908027648926,318,"Shawshank Redemption, The (1994)",Drama,4.485448360443115
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,4.555814266204834,1036,Die Hard (1988),Action|Thriller,4.472107887268066
+50,"Usual Suspects, The (1995)",Crime|Thriller,4.553455352783203,953,It's a Wonderful Life (1946),Drama,4.469910621643066

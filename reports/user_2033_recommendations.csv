@@ -1,0 +1,11 @@
+SVD_MovieID,SVD_Title,SVD_Genres,SVD_PredictedRating,PMF_MovieID,PMF_Title,PMF_Genres,PMF_PredictedRating
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,3.948981523513794,3307,City Lights (1931),Comedy|Drama|Romance,4.203917026519775
+1198,Raiders of the Lost Ark (1981),Action|Adventure,3.9310083389282227,670,"World of Apu, The (Apur Sansar) (1959)",Drama,4.180397033691406
+527,Schindler's List (1993),Drama|War,3.9309425354003906,1148,"Wrong Trousers, The (1993)",Animation|Comedy,4.152158260345459
+318,"Shawshank Redemption, The (1994)",Drama,3.9216811656951904,3022,"General, The (1927)",Comedy,4.131752967834473
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi,3.9169342517852783,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.1049041748046875
+858,"Godfather, The (1972)",Action|Crime|Drama,3.9044904708862305,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,4.10115385055542
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,3.9044742584228516,745,"Close Shave, A (1995)",Animation|Comedy|Thriller,4.091737747192383
+1148,"Wrong Trousers, The (1993)",Animation|Comedy,3.8834028244018555,905,It Happened One Night (1934),Comedy,4.0888776779174805
+1207,To Kill a Mockingbird (1962),Drama,3.8813211917877197,720,Wallace & Gromit: The Best of Aardman Animation (1996),Animation,4.088059425354004
+745,"Close Shave, A (1995)",Animation|Comedy|Thriller,3.8579628467559814,1207,To Kill a Mockingbird (1962),Drama,4.0733442306518555

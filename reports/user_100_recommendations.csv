@@ -1,0 +1,11 @@
+SVD_MovieID,SVD_Title,SVD_Genres,SVD_PredictedRating,PMF_MovieID,PMF_Title,PMF_Genres,PMF_PredictedRating
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.071156978607178,904,Rear Window (1954),Mystery|Thriller,4.037227630615234
+745,"Close Shave, A (1995)",Animation|Comedy|Thriller,4.010690212249756,1148,"Wrong Trousers, The (1993)",Animation|Comedy,4.019516944885254
+1148,"Wrong Trousers, The (1993)",Animation|Comedy,4.007060527801514,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.017362117767334
+904,Rear Window (1954),Mystery|Thriller,3.998749017715454,912,Casablanca (1942),Drama|Romance|War,3.997659206390381
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Film-Noir,3.996567964553833,1207,To Kill a Mockingbird (1962),Drama,3.9622228145599365
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,3.975489377975464,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Film-Noir,3.9324140548706055
+1212,"Third Man, The (1949)",Mystery|Thriller,3.970423936843872,953,It's a Wonderful Life (1946),Drama,3.930885076522827
+2762,"Sixth Sense, The (1999)",Thriller,3.9415438175201416,53,Lamerica (1994),Drama,3.894862174987793
+50,"Usual Suspects, The (1995)",Crime|Thriller,3.939384937286377,745,"Close Shave, A (1995)",Animation|Comedy|Thriller,3.89302659034729
+912,Casablanca (1942),Drama|Romance|War,3.938657760620117,3435,Double Indemnity (1944),Crime|Film-Noir,3.884094715118408

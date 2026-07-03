@@ -1,0 +1,11 @@
+SVD_MovieID,SVD_Title,SVD_Genres,SVD_PredictedRating,PMF_MovieID,PMF_Title,PMF_Genres,PMF_PredictedRating
+858,"Godfather, The (1972)",Action|Crime|Drama,4.3923234939575195,2905,Sanjuro (1962),Action|Adventure,4.290572166442871
+318,"Shawshank Redemption, The (1994)",Drama,4.3891801834106445,50,"Usual Suspects, The (1995)",Crime|Thriller,4.288139820098877
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.374716758728027,858,"Godfather, The (1972)",Action|Crime|Drama,4.287590026855469
+50,"Usual Suspects, The (1995)",Crime|Thriller,4.3578901290893555,318,"Shawshank Redemption, The (1994)",Drama,4.246007919311523
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi,4.328390121459961,53,Lamerica (1994),Drama,4.233918190002441
+745,"Close Shave, A (1995)",Animation|Comedy|Thriller,4.3212199211120605,787,"Gate of Heavenly Peace, The (1995)",Documentary,4.215122222900391
+527,Schindler's List (1993),Drama|War,4.315777778625488,1207,To Kill a Mockingbird (1962),Drama,4.204957962036133
+1148,"Wrong Trousers, The (1993)",Animation|Comedy,4.30539608001709,904,Rear Window (1954),Mystery|Thriller,4.158782958984375
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War,4.279475212097168,2324,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama,4.155473709106445
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Film-Noir,4.274409294128418,3245,I Am Cuba (Soy Cuba/Ya Kuba) (1964),Drama,4.1538591384887695

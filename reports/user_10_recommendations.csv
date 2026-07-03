@@ -1,0 +1,11 @@
+SVD_MovieID,SVD_Title,SVD_Genres,SVD_PredictedRating,PMF_MovieID,PMF_Title,PMF_Genres,PMF_PredictedRating
+608,Fargo (1996),Crime|Drama|Thriller,5.0,1246,Dead Poets Society (1989),Drama,4.789823532104492
+1207,To Kill a Mockingbird (1962),Drama,4.778609752655029,1907,Mulan (1998),Animation|Children's,4.7706475257873535
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,4.744049072265625,3147,"Green Mile, The (1999)",Drama|Thriller,4.760183334350586
+1172,Cinema Paradiso (1988),Comedy|Drama|Romance,4.725529193878174,11,"American President, The (1995)",Comedy|Drama|Romance,4.740730285644531
+50,"Usual Suspects, The (1995)",Crime|Thriller,4.703655242919922,3916,Remember the Titans (2000),Drama,4.724647521972656
+3429,Creature Comforts (1990),Animation|Comedy,4.695851802825928,497,Much Ado About Nothing (1993),Comedy|Romance,4.713327884674072
+3030,Yojimbo (1961),Comedy|Drama|Western,4.695340156555176,2565,"King and I, The (1956)",Musical,4.711084365844727
+2905,Sanjuro (1962),Action|Adventure,4.670363903045654,1172,Cinema Paradiso (1988),Comedy|Drama|Romance,4.706245422363281
+1224,Henry V (1989),Drama|War,4.661197185516357,1207,To Kill a Mockingbird (1962),Drama,4.691317081451416
+1178,Paths of Glory (1957),Drama|War,4.644692420959473,17,Sense and Sensibility (1995),Drama|Romance,4.6780314445495605
